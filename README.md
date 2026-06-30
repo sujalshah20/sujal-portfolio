@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,30&height=240&section=header&text=Sujal%20Shah&fontSize=85&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Building%20Digital%20Experiences&descAlignY=62&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,30&height=260&section=header&text=Sujal%20Shah&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Crafting%20Digital%20Experiences&descAlignY=65&descSize=19" width="100%"/>
 
 # 👋 Hi, I'm Sujal Shah
 
-### Full Stack Developer & Problem Solver
+### Full Stack Developer & Creative Problem Solver
 
 [![Portfolio](https://img.shields.io/badge/🚀_Live_Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://sujal-shah-portfolio-1020549552082.asia-southeast1.run.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sujalshah20)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sujalshah20)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=800&color=6366F1&center=true&vCenter=true&random=false&width=700&lines=Turning+Ideas+Into+Reality;Crafting+Beautiful+User+Interfaces;Building+Scalable+Full+Stack+Applications;Passionate+about+Clean+Code+%26+Modern+Design;Always+Learning+%26+Exploring+New+Tech+⚡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=700&color=6366F1&center=true&vCenter=true&random=false&width=720&lines=Building+Beautiful+Web+Experiences;Full+Stack+Development+%7C+UI%2FUX;Turning+Ideas+Into+Interactive+Reality;Passionate+about+Clean+Code+%26+Design;Always+Exploring+New+Technologies+⚡" alt="Typing SVG" />
 </p>
 
 </div>
@@ -20,9 +20,7 @@
 
 ## 🌟 Welcome to My Portfolio
 
-I'm a passionate **Full Stack Developer** who loves creating elegant, high-performance web applications. With expertise in both frontend and backend technologies, I build digital experiences that are not only visually stunning but also technically robust.
-
-This repository contains the source code of my personal portfolio website — a showcase of my skills, projects, and journey as a developer.
+I'm a passionate **Full Stack Developer** specializing in creating elegant, high-performance, and user-centric web applications. This portfolio showcases my skills, projects, and dedication to crafting exceptional digital experiences.
 
 ---
 
@@ -30,11 +28,11 @@ This repository contains the source code of my personal portfolio website — a 
 
 <div align="center">
 
-<img src="https://i.ibb.co/nMXycHxQ/homepage.png" alt="Portfolio Home" width="85%" style="border-radius: 16px; box-shadow: 0 10px 30px rgba(99, 102, 241, 0.3);"/>
+<img src="https://i.ibb.co/7tXjvbwy/image.png" alt="Sujal Shah Portfolio" width="92%" style="border-radius: 20px; box-shadow: 0 20px 40px rgba(99, 102, 241, 0.4);"/>
 
 <br/><br/>
 
-**Live Portfolio:** [Visit Now →](https://sujal-shah-portfolio-1020549552082.asia-southeast1.run.app/)
+**🌐 Live Portfolio:** [Visit Here →](https://sujal-shah-portfolio-1020549552082.asia-southeast1.run.app/)
 
 </div>
 
@@ -50,11 +48,8 @@ This repository contains the source code of my personal portfolio website — a 
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
@@ -62,11 +57,11 @@ This repository contains the source code of my personal portfolio website — a 
 
 ## 🔥 Featured Projects
 
-| Project | Description | Tech Stack | Live Link |
-|---------|-------------|------------|-----------|
-| **TestPulse** | Online Examination Processing Platform | React, Node.js, MongoDB, Tailwind | [View](https://github.com/Sujalshah20/testpulse) |
-| **Finance SaaS Dashboard** | Modern Finance Management Dashboard | Next.js, TypeScript, Drizzle, Clerk | [View](https://github.com/Sujalshah20/finance-saas-dashboard-) |
-| **ShieldPro** | Insurance Management Platform | React, Express, MongoDB | [View](https://github.com/Sujalshah20/ShieldPro-Frontend) |
+| Project | Description | Live |
+|---------|-------------|------|
+| **TestPulse** | Online Examination Processing Platform | [View](https://github.com/Sujalshah20/testpulse) |
+| **Finance SaaS Dashboard** | Modern Finance Management System | [View](https://github.com/Sujalshah20/finance-saas-dashboard-) |
+| **ShieldPro** | Insurance Management Platform | [View](https://github.com/Sujalshah20/ShieldPro-Frontend) |
 
 ---
 
@@ -84,10 +79,10 @@ This repository contains the source code of my personal portfolio website — a 
 
 ## 🎯 What I Do
 
-- **Frontend Development** — Creating pixel-perfect, responsive, and animated interfaces
-- **Backend Development** — Building scalable APIs and server-side logic
-- **Full Stack Applications** — End-to-end product development
-- **UI/UX Design** — Turning ideas into beautiful, user-friendly experiences
+- **Frontend** — Pixel-perfect, animated, and responsive interfaces  
+- **Backend** — Scalable APIs and robust server architecture  
+- **Full Stack** — Complete end-to-end application development  
+- **UI/UX** — Creating delightful user experiences with modern design
 
 ---
 
@@ -97,7 +92,7 @@ This repository contains the source code of my personal portfolio website — a 
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sujalshah20)
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sujalshah20)
-[![Email](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Email](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sujalshah20@gmail.com)
 
 </div>
 
@@ -105,9 +100,7 @@ This repository contains the source code of my personal portfolio website — a 
 
 <div align="center">
 
-### ⭐ Thank you for visiting my portfolio!
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,12,20,30&height=80&section=footer&text=Built%20with%20Passion%20%26%20Code&fontSize=14&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,12,20,30&height=90&section=footer&text=Built%20with%20Passion%20%26%20Endless%20Curiosity&fontSize=15&fontColor=ffffff" width="100%"/>
 
 **Made with ❤️ and lots of ☕ by Sujal Shah**
 
